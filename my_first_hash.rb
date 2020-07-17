@@ -1,7 +1,8 @@
 def my_hash
-  your_hash = {"my name" => "Jorge"}
-  return 
+  your_hash = {"me" => "Jorge"}
+  return your_hash["me"]
 end 
+
 
   
 end
